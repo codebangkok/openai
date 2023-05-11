@@ -1,0 +1,8 @@
+POST https://arise.openai.azure.com/openai/deployments/code/completions?api-version=2023-03-15-preview
+Content-Type: application/json
+api-key: 9aaf25e9d0f049039ddf4d82810e470e
+
+{
+    "prompt": "coding hello world in C#",
+    "max_tokens": 100
+}

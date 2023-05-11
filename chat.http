@@ -1,0 +1,24 @@
+POST https://arise.openai.azure.com/openai/deployments/chatgpt/chat/completions?api-version=2023-03-15-preview
+Content-Type: application/json
+api-key: 9aaf25e9d0f049039ddf4d82810e470e
+
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an AI assistant that helps people find information."
+        },
+        {
+            "role": "user",
+            "content": "รางวัลออสการ์ปี 1997 Best Picture คือเรื่องอะไร"
+        },
+        {
+            "role": "assistant",
+            "content": "รางวัลออสการ์ Best Picture ปี 1997 ได้รับการมอบให้กับภาพยนตร์เรื่อง \"Titanic\" ที่กำกับโดย James Cameron และมี Leonardo DiCaprio และ Kate Winslet เป็นนักแสดงหลัก หนังเรื่องนี้เป็นหนังที่ได้รับความนิยมมากในกลุ่มผู้ชมทั่วโลก และเป็นเรื่องราวเกี่ยวกับเรือ Titanic ที่จมลงในทะเล ซึ่งได้มีการฉายภาพยนตร์เรื่องนี้ทั่วโลกได้ส่งผลต่อผู้ชมอย่างมากในสิรวิทยากรและการพยากรณ์ว่าทำไมเรือชื่อ Titanic จึงจมลงในทะเลได้กลายเป็นเรื่องน่าสนใจในปัจจุบันด้วย"
+        },
+        {
+            "role": "user",
+            "content": "นักแสดงนำชายคือใคร"
+        }
+    ]
+}
