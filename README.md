@@ -11,6 +11,8 @@
 
 ### .NET Package
 * [Azure.AI.OpenAI ](https://www.nuget.org/packages/Azure.AI.OpenAI)
+* [Microsoft.SemanticKernel](https://www.nuget.org/packages/Microsoft.SemanticKernel)
+* [Microsoft.SemanticKernel.Skills.Web](https://www.nuget.org/packages/Microsoft.SemanticKernel.Skills.Web)
 
 ### REST API
 Completions
