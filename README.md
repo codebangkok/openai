@@ -4,6 +4,8 @@
 * [Azure OpenAI Service](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service)
 * [Azure OpenAI Service Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai)
 * [Azure OpenAI Service REST API reference](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference)
+* [Semantic Kernel Documentation](https://learn.microsoft.com/en-us/semantic-kernel)
+* [Semantic Kernel GitHub](https://github.com/microsoft/semantic-kernel)
 
 ### Request Access
 * [Azure OpenAI Service](https://aka.ms/oai/access)
