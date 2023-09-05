@@ -6,6 +6,7 @@
 * [Azure OpenAI Service REST API reference](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference)
 * [Semantic Kernel Documentation](https://learn.microsoft.com/en-us/semantic-kernel)
 * [Semantic Kernel GitHub](https://github.com/microsoft/semantic-kernel)
+* [Google Programmable Search Engine](https://programmablesearchengine.google.com)
 
 ### Request Access
 * [Azure OpenAI Service](https://aka.ms/oai/access)

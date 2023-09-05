@@ -1,8 +1,8 @@
 ﻿using Azure;
 using Azure.AI.OpenAI;
 
-var enpoint = new Uri("https://arise.openai.azure.com/");
-var key = new AzureKeyCredential("<API-KEY>");
+var enpoint = new Uri("");
+var key = new AzureKeyCredential("");
 var client = new OpenAIClient(enpoint, key);
 
 // var response = await client.GetCompletionsAsync("davinci", "write a tagline for a Coffee Shop");

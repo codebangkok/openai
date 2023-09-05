@@ -1,0 +1,1 @@
+Who is prime minister of {{$input}} now?

@@ -1,0 +1,5 @@
+One line TLDR with the fewest words.
+
+"""
+{{$input}}
+"""

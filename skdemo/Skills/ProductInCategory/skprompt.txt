@@ -1,0 +1,5 @@
+list product name in {{$category}} category. bullet point.
+
+"""
+{{$input}}
+"""
